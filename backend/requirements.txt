@@ -1,0 +1,12 @@
+Flask
+flask-cors
+flask-jwt-extended
+Flask-SQLAlchemy
+python-dotenv
+bcrypt
+PyMuPDF
+spacy
+transformers
+torch
+scikit-learn
+sentencepiece
